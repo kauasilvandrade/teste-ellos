@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # 🌍 Voyages - Landing Page (Teste Ellos Design)
 
 Landing page desenvolvida como parte do processo seletivo para estágio Front-End da **Ellos Design**.
@@ -88,5 +86,4 @@ git clone https://github.com/kauasilvandrade/teste-ellos.git
   [Linkedin](https://www.linkedin.com/in/kau%C3%A3-andrade/)
   [GitHub](https://github.com/kauasilvandrade)
 
-Muito obrigado pela oportunidade Ellos Desgin ❤️
->>>>>>> a28ecdc30c07c874c2d65722f80aa7d590d01407
+Muito obrigado pela oportunidade Ellos Desging
